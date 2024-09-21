@@ -1,0 +1,20 @@
+﻿[
+  {
+    "activityName": "Remote_Activity_2",
+    "activityParams": [
+      "Hi"
+    ]
+  },
+  {
+    "activityName": "remote_activity_3",
+    "activityParams": [
+      "Hi"
+    ]
+  },
+  {
+    "activityName": "Remote_Activity_1",
+    "activityParams": [
+      "Hi"
+    ]
+  }
+]
